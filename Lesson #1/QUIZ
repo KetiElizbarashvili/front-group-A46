@@ -1,0 +1,45 @@
+Select the correct definition of the term "freelancer"
+
+A specialist dealing with lances
+A specialist in a particular field who can work from home at a computer and earn good money at the age of 16
+A specialist who is fluent in five or more skills
+A specialist in a particular field, who has the opportunity to set the level of his or her salary independently 
+
+
+
+What web application components will we study in the course?
+
+There may be more than one correct answer
+Python
+Excel
+JavaScript
+HTML
+CSS 
+
+Correlate the sections and their role in a website's structure
+header
+Contacts, additional information
+main
+Name, logo, menu
+footer
+Useful information for the user 
+
+
+Add text to your website as in the "Sample" tab. 
+Be sure to use the <p> tag to design the paragraph. 
+
+<h1>
+    Important information
+</h1>
+<p>
+    I really like to study and learn new things
+</p> 
+
+Add an image to the website
+The website will sparkle with bright colors when this image appears on it in addition to the text. 
+
+Copy the link to the image:
+
+/uploads/2023/03/Cat.jpg
+
+Remember about tags, and check out this cute result. 
